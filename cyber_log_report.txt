@@ -1,4 +1,52 @@
 ===== CYBER THREAT LOG REPORT =====
+Name: ernesa sumayo
+Handle: Nyxsentinel
+Start Time: 2026-06-03 12:12:29.876951
+End Time: 2026-06-03 12:13:44.750460
+Duration (minutes): 1.25
+Score: 9/10
+Rating: ADVANCED
+---- Threat Logs ----
+Threat: SMB Ransomware Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SMTP Phishing Campaign
+NOTICE: Suspicious traffic pattern detected targeting port 
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: Telnet Credential Theft
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: MySQL Data Theft
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.200 on port
+-------------------
+Threat: RDP Brute Force Attack
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: HTTP Web Exploit
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.214 on port
+-------------------
+Threat: Proxy Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.61 on port
+-------------------===== CYBER THREAT LOG REPORT =====
 Name: 
 Handle:
 Start Time: 
